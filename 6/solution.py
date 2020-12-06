@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
+from collections import defaultdict
 import math
 import re
 
-d = {}
+seen = defaultdict(int)
 count1 = 0
 count2 = 0
 rows = 0
@@ -11,25 +12,20 @@ with open("data") as f:
     line = f.readlines()
 
     for l in line:
-        v = l.strip()
-        if len(v) >= 1:
-            rows += 1
-            for c in v:
-                if c not in d:
-                    d[c] = 0
-                d[c] += 1
+        line_data = l.strip()
+        # State machine. If the line has data, we're processing votes
+        if len(line_data) >= 1:
+            rows += 1 # how many users are in this group
+            for character in line_data:
+                seen[character] += 1
         else:
-            count1 += len(d.keys())
-            for p in d.keys():
-                if d[p] == rows:
+            count1 += len(seen.keys())
+            for k in seen.keys():
+                if seen[k] == rows:
                     count2+=1
-            d = {}
+            # reset state for next group
+            seen = defaultdict(int)
             rows = 0
-
-
-
-
-
 
 print("Part 1: " + str(count1))
 print("Part 2: " + str(count2))
