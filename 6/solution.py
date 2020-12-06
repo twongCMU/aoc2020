@@ -15,7 +15,6 @@ with open("data") as f:
         if len(v) >= 1:
             rows += 1
             for c in v:
-                print("char " + str(c))
                 if c not in d:
                     d[c] = 0
                 d[c] += 1
