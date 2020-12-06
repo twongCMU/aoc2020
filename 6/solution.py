@@ -20,8 +20,8 @@ with open("data") as f:
                 seen[character] += 1
         else:
             count1 += len(seen.keys())
-            for k in seen.keys():
-                if seen[k] == rows:
+            for v in seen.values():
+                if v == rows:
                     count2+=1
             # reset state for next group
             seen = defaultdict(int)
