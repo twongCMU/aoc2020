@@ -3,6 +3,9 @@ import sys
 import numpy
 numpy.set_printoptions(threshold=sys.maxsize)
 
+# editor's note: I tried to maintain an absolute position for the waypoint
+# but I don't know why.. this made it significantly harder for zero benefit
+
 data = []
 with open("data") as f:
     line = f.readlines()
