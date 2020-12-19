@@ -28,3 +28,4 @@ Day       Time   Rank  Score       Time  Rank  Score
   2   00:11:51   2714      0   00:17:15  2510      0
   1   00:09:46   1743      0   00:24:50  3205      0
   ```
+  (Day 3 and 4 have higher than expected times because I started late. Al other days I started at the puzzle release time)
