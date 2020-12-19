@@ -4,6 +4,8 @@ Poorly coded solutions for Advent of Code 2020
 This is my second Advent of Code, having joined last year about 17 days in and having to rush a lot of solutions in a few short days while also going on vacation. This year I look forward to doing the puzzles each day and trying to complete all 50 stars. I don't expect to be on the leaderboard though it would be fun.
 
 
+I have written my thoughts about each problem in their respective folders. I wrote everything up to day 19 on the 19th, then subeqeuent ones on the day that they were released.
+
 
 ```
       --------Part 1--------   -------Part 2--------
@@ -28,4 +30,4 @@ Day       Time   Rank  Score       Time  Rank  Score
   2   00:11:51   2714      0   00:17:15  2510      0
   1   00:09:46   1743      0   00:24:50  3205      0
   ```
-  (Day 3 and 4 have higher than expected times because I started late. Al other days I started at the puzzle release time)
+  (Day 3 and 4 have higher than expected times because I started late. On all other days I started at the puzzle release time)
