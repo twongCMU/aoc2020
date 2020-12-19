@@ -1,5 +1,8 @@
 # Day 17
 
+https://adventofcode.com/2020/day/17
+
+
 This problem was pretty simple since we had already done a neighbor counting Conway's Game of Life simulation problem on Day 11. This time it was easier to write because on day 11, in comparing solutions with friends, I learned about using itertools.product to generate the list of neighbors rather than enumerating a long list of if statements.
 
 

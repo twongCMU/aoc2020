@@ -1,5 +1,8 @@
 # Day 13
 
+https://adventofcode.com/2020/day/13
+
+
 Part 1 was easy. I just looped multiplying each of the cycle times until they were all just over the required time and took the lowest one.
 
 

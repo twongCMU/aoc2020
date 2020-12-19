@@ -1,5 +1,8 @@
 # Day 14
 
+https://adventofcode.com/2020/day/14
+
+
 I enjoyed this problem. At its surface it is a pretty simple bitmask problem but the introduction of the X means traditional bitwise operators can't be immediately applied. I solved part 1 by generating two regular bit masks out of the supplied one and applying them to the data.
 
 

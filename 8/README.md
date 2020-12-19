@@ -1,5 +1,8 @@
 # Day 8
 
+https://adventofcode.com/2020/day/8
+
+
 Finally, a CPU emulator problem! I had been eagerly awaiting these problems. My favorite problem from Advent of Code 2019 was the intcode puzzle where we had to write an AI to play Arkanoid. Last year there was a long sequence of puzzles that built on the previous solution and I was looking forward to this again. Sadly, they haven't revisited this problem since (I'm writing this summary on day 19).
 
 

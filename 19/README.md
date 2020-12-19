@@ -1,5 +1,8 @@
 # Day 19
 
+https://adventofcode.com/2020/day/19
+
+
 I had to think about this one for about 30 minutes before I has a good plan of attack. At first I tried to enumerate all possible strings for part 1 since they told us that the matches were finite, but as my code ran I could see that it wasn't making much progress. It then occurred to me that I could filter out a lot of the paths if the substring being generated wasn't going to be useful for matching any of the messages. I think my code keeps way more substrings than necessary but it pruned the tree enough that it could generate the result for part 1 in about 2 seconds.
 
 

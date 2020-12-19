@@ -1,5 +1,8 @@
 # Day 2
 
+https://adventofcode.com/2020/day/2
+
+
 Part 1 was straightforward but I always forget how to do regular expressions in Python and lost time looking it up
 
 

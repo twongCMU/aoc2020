@@ -1,5 +1,8 @@
 # Day 4
 
+https://adventofcode.com/2020/day/4
+
+
 I solved part 1 pretty easily using a state machine to know if I was processing the same passport, then validating the whole thing when I saw a blank line. By this point some friends and I were getting into this and sharing our solutions on Github so I had the silly idea to replace my variable names with their usernames just to see if they would notice (they did, and we had a good laugh)
 
 

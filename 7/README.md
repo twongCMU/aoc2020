@@ -1,5 +1,8 @@
 # Day 7
 
+https://adventofcode.com/2020/day/7
+
+
 Today's puzzle was a bit convoluted in its description but underneath it was not too bad to implement. I stuffed all of the relationships into a dict rather than building some specialized tree which turned out to work well for both parts.
 
 

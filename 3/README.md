@@ -1,5 +1,8 @@
 # Day 3
 
+https://adventofcode.com/2020/day/3
+
+
 I know the puzzle designer likes these kinds of 2d maps with obstacles on them and I had trouble with them at Advent of Code 2019. As a result I was a bit worried to see one show up so early this year. Luckily the problem was not as difficult. It only worries about intersecting trees at each landing position, not the intermediary travel between markers.
 
 

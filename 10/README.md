@@ -1,5 +1,8 @@
 # Day 10
 
+https://adventofcode.com/2020/day/10
+
+
 Part 1 was pretty easy. I sorted the adapters and then made a histogram.
 
 

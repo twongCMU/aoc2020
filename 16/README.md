@@ -1,5 +1,8 @@
 # Day 16
 
+https://adventofcode.com/2020/day/16
+
+
 Part 1 was easy to understand but tough to code because there was a lot to keep track of and I confused myself with so many nested loops, but ultimately got the solution in a short amount of time.
 
 
