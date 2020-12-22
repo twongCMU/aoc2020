@@ -1,0 +1,6 @@
+# Day 22
+
+Part 1 was one of those rare problems where I can see the solution and all of the code in my head before I start coding, so I thought I had a good chance at the leaderboard. I got hung up putting the data into my code and manually adding the commas and formatting the list. All of my code was correct except at the very end I was computing the final score with my list backwards and I ended up in 804th place. Mentally, I was so focused on writing bug free code while implementing the game itself that I relaxed when it came to the final score computation. I think even if I had avoided these issues I still wouldn't have been fast enough to be on the leaderboard but it was a thrill to know I had a chance.
+
+
+Part 2 was fun to implement but the instructions were tricky. I got hung up because the recursive game only contains the list of cards equal to the value of the card drawn and I didn't notice that stipulation at first. Ultimately this puzzle was enjoyable and unique, but perhaps a little too easy for day 22. I'm glad to not have another 6 hour marathon but hopefully we get a few more that are a little challenging.
