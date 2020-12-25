@@ -9,6 +9,7 @@ I have written my thoughts about each problem in their respective folders. I wro
 ```
       --------Part 1--------   -------Part 2--------
 Day       Time   Rank  Score       Time  Rank  Score
+ 25   00:22:29   1701      0   00:23:14  1448      0
  24   00:22:34   1278      0   00:52:05  1469      0
  23   00:21:28    564      0   03:39:26  2525      0
  22   00:08:37    804      0   00:42:35   985      0
